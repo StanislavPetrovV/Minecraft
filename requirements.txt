@@ -1,0 +1,6 @@
+pygame
+moderngl
+numba
+PyGLM
+opensimplex
+
